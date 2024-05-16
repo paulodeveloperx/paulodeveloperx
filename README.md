@@ -42,6 +42,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/fzx/fzx/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/paulodeveloperx/paulodeveloperx/output/snake.svg" alt="Snake animation" />
 
 ###
