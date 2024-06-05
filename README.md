@@ -42,7 +42,7 @@
 ###
 
 <h3 align="left">Portifólio</h3>
-## [Subtítulo com Link para Google](https://www.google.com)
+ <h4><a href="https://www.google.com">Calculadora de Média</a></h4>
 
 
 <img src="https://raw.githubusercontent.com/paulodeveloperx/paulodeveloperx/output/snake.svg" alt="Snake animation" />
