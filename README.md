@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=veronezix&fontAlign=50&fontAlignY=40&color=gradient&fontFamily=Segoe%20UI&desc=Systems%20Administrator%20|%20Cybersecurity%20Enthusiast)
+[![header](https://capsule-render.vercel.app/api?type=waving&height=200&text=veronezix&fontAlign=50&fontAlignY=40&color=0:EEFF00,100:a82da8&fontFamily=Segoe%20UI&desc=Systems%20Administrator%20|%20Cybersecurity%20Enthusiast)](https://capsule-render.vercel.app/api?type=waving&height=250&color=2BA733&section=header&reversal=false&text=Veronez&textBg=false&fontColor=45FC41&fontSize=70&fontAlign=50&fontAlignY=50&animation=fadeIn&rotate=0&stroke=45FC41&strokeWidth=0&descSize=20&descAlign=50&descAlignY=60)
 
 <h2 align="center">Hello my name is Paulo 🧑‍💻....</h2>
 
