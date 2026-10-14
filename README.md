@@ -4,25 +4,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=45FC41&center=true&vCenter=true&width=835&lines=IT+Support+%7C+Cybersecurity+;Cyber+%E2%80%8B%E2%80%8BDefense+%26+Blue+Team;%24+whoami++-%3E++verozx" alt="Typing SVG" /></a>
 
 
-const serozr = {
-  role: "Full Stack Developer & Security Researcher",
-  location: "🌍 Remote",
-  languages: ["JavaScript", "TypeScript", "Python", "HTML", "CSS", "Lua"],
-  technologies: {
-    frontEnd:  ["React", "Next.js", "Vue.js", "Tailwind CSS"],
-    backEnd:   ["Node.js", "Express", "FastAPI", "REST APIs"],
-    databases: ["MongoDB", "MySQL", "PostgreSQL"],
-    security:  ["Penetration Testing", "Web Security", "Network Analysis"],
-    devOps:    ["Docker", "Git", "Linux", "CI/CD"],
-    tools:     ["VS Code", "Burp Suite", "Wireshark", "Metasploit"],
-  },
-  currentFocus: "🔐 Open Source Security Projects",
-  learning:     ["AI/ML Security", "Cloud Security (AWS/GCP)", "Reverse Engineering"],
-  funFact:      "I find bugs in systems before the bad guys do 🐛",
-  openToWork:   true,
-};
-
-
 <h2 align="center">Hello my name is Paulo 🧑‍💻....</h2>
 
 ###
