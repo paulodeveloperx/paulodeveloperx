@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&api?text=capsule_render&animation=fadeIn)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsulerender&animation=fadeIn)
 <h2 align="center">Hello my name is Paulo 🧑‍💻....</h2>
 
 ###
